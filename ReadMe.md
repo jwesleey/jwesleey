@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Olá! Sou um estudante focado em banco de dados, lógica de programação e no desenvolvimento de projetos. Atualmente, trabalho com JavaFX, PostgreSQL e estou explorando áreas como filosofia e inteligência artificial. Aqui você encontrará projetos que refletem minha jornada de aprendizado e evolução na tecnologia. 🚀
+Estudo programação a partir dos fundamentos: lógica, algoritmos e estruturas de dados. Trabalho com Java e SQL, tratando código como forma de pensamento, não apenas ferramenta.
+
+Este espaço registra aprendizado, prática e evolução. Um processo contínuo de entender, refinar e construir a partir do pensamento.
 
 
 ## 🌐 Socials:
