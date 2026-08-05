@@ -1,4 +1,3 @@
-# 💫 About Me:
 Estudo programação a partir dos fundamentos: lógica, algoritmos e estruturas de dados. Trabalho com Java e SQL, tratando código como forma de pensamento, não apenas ferramenta.
 
 Este espaço registra aprendizado, prática e evolução. Um processo contínuo de entender, refinar e construir a partir do pensamento.
