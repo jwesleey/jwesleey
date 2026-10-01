@@ -15,5 +15,7 @@ Este espaço registra aprendizado, prática e evolução. Um processo contínuo 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 ## 🐍 Contributions
+
 ![snake animation](https://raw.githubusercontent.com/jwesleey/jwesleey/output/github-contribution-grid-snake2.svg)
