@@ -13,45 +13,12 @@ Este espaço registra aprendizado, prática e evolução. Um processo contínuo 
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Backend</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,mysql,postgres,git,github,idea,vscode" />
   </a>
 </p>
-
-<h3 align="center">Banco de Dados & SQL</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  </a>
-</p>
-
-<h3 align="center">Linguagens & Scripts</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
-
 <h3 align="center">Ferramentas</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
-  </a>
-</p>
 
 <h2 align="center">GitHub Stats</h2>
 
