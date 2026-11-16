@@ -22,14 +22,12 @@ Este espaço registra aprendizado, prática e evolução. Um processo contínuo 
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwesleey&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwesleey&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwesleey&theme=nightowl&hide_border=false" />
-</p>
+![](https://streak-stats.demolab.com/?user=jwesleey&theme=github_dark_dimmed&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jwesleey&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 <h2 align="center">🐍 Contributions</h2>
 
